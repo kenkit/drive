@@ -40,7 +40,7 @@ import (
 
 const (
 	// OAuth 2.0 OOB redirect URL for authorization.
-	RedirectURL = "urn:ietf:wg:oauth:2.0:oob"
+	RedirectURL  = "http://127.0.0.1"
 
 	// OAuth 2.0 full Drive scope used for authorization.
 	DriveScope = "https://www.googleapis.com/auth/drive"
