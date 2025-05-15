@@ -1,4 +1,4 @@
-module github.com/odeke-em/drive
+module github.com/kenkit/drive
 
 go 1.16
 
